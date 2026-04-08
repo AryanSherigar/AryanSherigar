@@ -1,47 +1,30 @@
-# Aryan Sherigar
+# Hi, I'm Aryan 👋
 
-Backend • Systems • GenAI • Web3  
+I build AI systems that feel alive — currently focused on generative AI and real-time storytelling.
 B.Tech @ IIT (ISM) Dhanbad | Class of 2026
 
-I build **reliable backend systems**, **low-level Unix tooling**, and **LLM-powered applications** with a strong focus on correctness, performance, and clean design.
+* 🧠 Working with **C++ and TypeScript**
+* 🚀 Building **Chronos** — an AI storytelling engine with dynamic, evolving narratives
+* ⚡ Interested in **GenAI, real-time systems, and intelligent product design**
+* 💼 Open to **SDE / Fresher roles**
 
 ---
 
-## 🚀 Selected Projects
+## 🔥 What I'm building
 
-### 🐚 Unix-Like Shell (C++)
-- Built from scratch using POSIX system calls (`fork`, `execvp`, `pipe`, `dup2`)
-- Supports pipelines, I/O redirection, and built-in commands
-- Command history & tab completion via GNU Readline
-
-### 📖 Chronos — AI Story Engine
-- Streaming LLM pipeline using Gemini 3 Flash
-- Deterministic state machine over LLM output
-- Lightweight RAG system with real-time human control
-
-### 🔐 Token Staking System
-- ERC-20 staking backend with concurrent-safe workflows
-- Accurate reward accounting and clean OOP design
+* **Chronos**
+  → An AI system that generates and adapts stories in real-time
+  → Focused on narrative intelligence, agents, and interactive experiences
 
 ---
 
-## 🛠️ Skills
+## 🌐 Find me here
 
-**Languages:** C++, Java, JavaScript, Python  
-**Core CS:** DSA, OOP, Multithreading, OS Basics  
-**Backend:** Node.js, Express, FastAPI, SQL, REST  
-**GenAI:** RAG, LLM APIs, Embeddings, Semantic Search  
-**Tools:** Git, Linux, LangChain, ChromaDB
+* GitHub: https://github.com/Aryansherigar
+* X (Twitter): https://x.com/SpamTestin44115
+* Email: sherigararyan90@gmail.com
 
 ---
 
-## 🏆 Highlights
-- 200+ DSA problems solved
-- Technology Analyst Intern Offer — Barclays UK
-- Top 3 / 200+ teams at BlockBash Hackathon
-- Mentored 20+ students in blockchain development
+> I like building things that don’t just work — they *behave*.
 
----
-
-📫 **GitHub:** https://github.com/AryanSherigar  
-📧 **Email:** aryansherigar@gmail.com
