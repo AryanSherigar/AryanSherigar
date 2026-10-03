@@ -1,30 +1,27 @@
 # Hi, I'm Aryan 👋
 
-I build AI systems that feel alive — currently focused on generative AI and real-time storytelling.
-B.Tech @ IIT (ISM) Dhanbad | Class of 2026
+I build AI systems for interactive fiction: stories where the AI follows the world's rules and remembers what you did.
 
-* 🧠 Working with **C++ and TypeScript**
-* 🚀 Building **Chronos** — an AI storytelling engine with dynamic, evolving narratives
-* ⚡ Interested in **GenAI, real-time systems, and intelligent product design**
-* 💼 Open to **SDE / Fresher roles**
+B.Tech @ IIT (ISM) Dhanbad, Class of 2026
 
----
-
-## 🔥 What I'm building
-
-* **Chronos**
-  → An AI system that generates and adapts stories in real-time
-  → Focused on narrative intelligence, agents, and interactive experiences
+* 🎮 I've played 143,505 turns of AI Dungeon, so now I'm building the engine I wanted as a player
+* 🛠️ Python, TypeScript, C++ · FastAPI, React · Gemini / Vertex AI · Google Cloud
+* 🔭 Currently building something new in AI interactive fiction (more soon)
 
 ---
 
-## 🌐 Find me here
+## 🔥 Things I've built
 
-* GitHub: https://github.com/Aryansherigar
-* X (Twitter): https://x.com/SpamTestin44115
-* Email: sherigararyan90@gmail.com
+* **[Chronos](https://github.com/AryanSherigar/rp-agent)**: AI story engine that streams narration and structured world state (stats, story variables) from a single Gemini call
+* **Taleweaver**: Chronos with voice input and output
+* **[News Story Arc Tracker](https://github.com/AryanSherigar/news)**: RAG platform turning 100+ articles per topic into timelines, entity graphs, and sentiment, with real-time voice chat
 
 ---
 
-> I like building things that don’t just work — they *behave*.
+## 🧩 Open source
 
+* **[LiteLLM](https://github.com/BerriAI/litellm/pull/32273)**: Gemini 2.5 compatibility fix with regression tests (in review)
+* **[Gemini Cookbook](https://github.com/google-gemini/cookbook/issues/1290)**: reported a parameter-validation bug, fixed same day by Google
+* **[HydraDB](https://github.com/hydra-db/hydradb/issues/68)**: reported a bug that led to a fix
+
+---
